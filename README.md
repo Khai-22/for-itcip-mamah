@@ -23,4 +23,17 @@
 
     h1 {
       color: #c9184a;
-      margin-bottom: 10px;
+      margin-bottom: 10px
+      .card {
+  background-color: white;
+  padding: 35px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  max-width: 550px;
+}
+
+h1 {
+  color: #c9184a;
+  margin-bottom: 10px;
+  
